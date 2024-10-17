@@ -1,0 +1,384 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{
+
+}
+.div1{
+	background-color: black;
+	height: 580px;
+	width: 1224,5px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+}
+.titulo{
+	position: absolute;
+	color: white;
+	top: 90px;
+	font-family: "Inter";
+	font-size: 30px;
+	text-align: center;
+}
+.logo{
+	position: absolute;
+	left: 500px;
+	top: 10px;
+	width: 280px;
+}
+.devs{
+	width: 620px;
+	position: absolute;
+	left: 600px;
+	top: 100px;
+}
+.combo{
+	width: 600px;
+	position: absolute;
+	top: 200px;
+}
+.botao {
+	position: absolute;
+	font-family: "Inter";
+	top: 330px;
+	left: 80px;
+    width: 450px;    
+    height: 50px;    
+    background-color: rgb(0, 151, 72);
+    text-align: center;
+    border-radius: 10px;
+}
+.assinatura1{
+	color: white;
+}
+.botao2{
+	position: absolute;
+	font-family: "Inter";
+	top: 400px;
+	left: 80px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: black;
+	border: 3px solid white;
+	width: 450px;
+	height: 50px;
+}
+.assinatura2{
+	color: white;
+
+}
+.info{
+	position: absolute;
+	font-family: "Inter";
+	top: 450px;
+	left: 118px;
+	color: #BDBDBD;
+}
+.variaçao{
+	font-size: 13px;
+}
+
+.div2{
+	background-color: #3F3E57;
+	height: 580px;
+	width: 1224,5px;
+	position: absolute;
+	top: 580px;
+	right: 0px;
+	left: 0px;
+}
+.notebook{
+	position: absolute;
+	top: 80px;
+}
+.note3{
+	color: white;
+	position: absolute;
+	font-family: "Inter";
+	top: 180px;
+	left: 650px;
+	font-size: 30px;
+	width: 500px;
+}
+.note4{
+	color: #D3D3D3;
+	position: absolute;
+	font-family: "Inter";
+	top: 230px;
+	left: 650px;
+	font-size: 20px;
+	display: flex;
+	width: 500px;
+}
+.div3{
+	background-color: black;
+	height: 580px;
+	width: 1224,5px;
+	position: absolute;
+	top: 1060px;
+	right: 0px;
+	left: 0px;
+}
+.texto{
+	color: #C3C3C3;
+	font-family: "Inter";
+	position: absolute;
+	top: 180px;
+	left: 80px;
+	text-align: center;
+}
+.botao3{
+	position: absolute;
+	font-family: "Inter";
+	top: 280px;
+	left: 80px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: rgb(0, 151, 72);
+	width: 540px;
+	height: 50px;
+}
+.imagem1{
+	position: absolute;
+	top: 120px;
+	left: 650px;
+}
+.imagem2{
+	width: 565px;
+	height: auto;
+}
+.div4{
+	background-color: #3F3E57;
+	height: 580px;
+	width: 1224,5px;
+	position: absolute;
+	top: 1640px;
+	right: 0px;
+	left: 0px;
+}
+.imagem3{
+	position: absolute;
+	top: 140px;
+}
+.cursos{
+	font-size: 35px;
+	color: white;
+	position: absolute;
+	left: 650px;
+	top: 170px;
+	font-family: "Inter";
+}
+.cursos2{
+	font-size: 20px;
+	color: #D3D3D3;
+	position: absolute;
+	left: 650px;
+	top: 240px;
+	font-family: "Inter";
+}
+.div5{
+	background-color: black;
+	height: 580px;
+	width: 1224,5px;
+	position: absolute;
+	top: 2220px;
+	right: 0px;
+	left: 0px;
+}
+.favoritos{
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 60px;
+	left: 320px;
+	font-size: 30px;
+}
+.computador1{
+	position: absolute;
+	top: 155px;
+	left: 370px;
+}
+.computador2{
+	width: 500px;
+}
+.computador3{
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 230px;
+	left: 140px;
+}
+.celular1{
+	position: absolute;
+	top: 190px;
+	left: 750px;
+}
+.celular2{
+	width: 430px;
+}
+.celular3{
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 200px;
+	left: 70px;
+}
+.tv1{
+	position: absolute;
+	top: 160px;
+	left: 25px;
+}
+.tv2{
+	width: 450px;
+}
+.tv3{
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 230px;
+	left: 200px;
+}
+.div6{
+	background-color: #3F3E57;
+	height: 580px;
+	width: 1224,5px;
+	position: absolute;
+	top: 2800px;
+	right: 0px;
+	left: 0px;
+}
+.contato{
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 30px;
+	left: 550px;
+}
+.botao4{
+	position: absolute;
+	font-family: "Inter";
+	top: 100px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #3F3E70;
+	border: 2px solid white;
+	width: 450px;
+	height: 50px;
+}
+.nome{
+	color: white;
+	font-family: "Inter";
+}
+.botao5{
+	position: absolute;
+	font-family: "Inter";
+	top: 170px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #3F3E70;
+	border: 2px solid white;
+	width: 450px;
+	height: 50px;
+}
+.email{
+	color: white;
+	font-family: "Inter";
+}
+.botao6{
+	position: absolute;
+	font-family: "Inter";
+	top: 240px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #3F3E70;
+	border: 2px solid white;
+	width: 450px;
+	height: 200px;
+}
+.msg{
+	color: white;
+	font-family: "Inter";
+}
+.botao7{
+	position: absolute;
+	font-family: "Inter";
+	top: 460px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #88FF68;
+	border: 1px solid white;
+	width: 451px;
+	height: 50px;
+}
+.div7{
+	background-color: black;
+	height: 300px;
+	width: 1224,5px;
+	position: absolute;
+	top: 3380px;
+	right: 0px;
+	left: 0px;
+}
+.logodev1{
+	position: absolute;
+	top: 40px;
+	left: 480px;
+}
+.coisas1{
+	font-family: "inter";
+	color: white;
+	position: absolute;
+	top: 130px;
+	left: 170px;
+}
+.coisas2{
+	position: absolute;
+	left: -150px;
+}
+.coisas3{
+	position: absolute;
+	left: -80px;
+	width: 300px;
+}
+.coisas4{
+	position: absolute;
+	left: 120px;
+	width: 300px;
+}
+.coisas5{
+	position: absolute;
+	left: 310px;
+	width: 300px;
+}
+.coisas6{
+	position: absolute;
+	left: 510px;
+	width: 300px;
+}
+.coisas7{
+	position: absolute;
+	left: 750px;
+	width: 200px;
+}
+.coisas8{
+	position: absolute;
+	left: 960px;
+	width: 90px;
+}
+@media{
+
+}
